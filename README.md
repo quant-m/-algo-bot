@@ -8,5 +8,3 @@ Each topic has:
     snippets.md: Short concept cards 
     questions.md: Concept questions to test understanding (with answers) 
     problems.md: Classic problems with ideas, hints, and solutions 
-
-    All content will be used in a Telegram-based AI assistant for interactive learning.
